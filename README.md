@@ -7,12 +7,12 @@ Welcome to the AI-Powered Resume Builder! This project leverages the latest adva
 
 ## Features
 
-**Intelligent Resume Suggestions :** Our AI engine analyzes industry trends and job descriptions to provide personalized suggestions for resume content.
-**Automatic Formatting:** Let AI handle the formatting! Our system ensures consistency and professional layout across all resumes.
-**Keyword Optimization:** Optimize your resume with relevant keywords to increase visibility and match potential employers' requirements.
-**Skills Matching:** Our AI matches your skills and experience with job requirements, helping you tailor your resume for specific positions.
-**Smart Editing Assistance:** Receive real-time suggestions and feedback while editing your resume, ensuring clarity and impact.
-**Data-driven Insights:** Gain insights into resume performance metrics, such as application success rates and recruiter engagement.
+1. **Intelligent Resume Suggestions :** Our AI engine analyzes industry trends and job descriptions to provide personalized suggestions for resume content.
+2. **Automatic Formatting:** Let AI handle the formatting! Our system ensures consistency and professional layout across all resumes.
+3. **Keyword Optimization:** Optimize your resume with relevant keywords to increase visibility and match potential employers' requirements.
+4. **Skills Matching:** Our AI matches your skills and experience with job requirements, helping you tailor your resume for specific positions.
+5. **Smart Editing Assistance:** Receive real-time suggestions and feedback while editing your resume, ensuring clarity and impact.
+6. **Data-driven Insights:** Gain insights into resume performance metrics, such as application success rates and recruiter engagement.
 
 ## Collaborator Meetings
  
